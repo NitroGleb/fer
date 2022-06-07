@@ -1,0 +1,12 @@
+body{
+    background-color: blueviolet;
+}
+h1{
+    text-align: center;
+}
+body:hover{
+    background-color: crimson;
+}
+img{
+    margin-left: 250px;
+}
